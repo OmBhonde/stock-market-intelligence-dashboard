@@ -23,7 +23,7 @@ stock market data across 500+ companies from 2010-2024.
 - **Data Points** — 176,000+ stock records
 
 ## 🔗 Live Dashboard
-[View Interactive Dashboard on Tableau Public](YOUR_LINK_HERE)
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/omsing.bhonde/viz/GlobalStockMarketIntelligenceDashboard/GlobalStockMarketIntelligenceDashboard1?publish=yes)
 
 ## 📸 Screenshots
 ![Dashboard](screenshots/dashboard.png)
