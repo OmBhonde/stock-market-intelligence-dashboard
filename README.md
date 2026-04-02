@@ -26,4 +26,18 @@ stock market data across 500+ companies from 2010-2024.
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/omsing.bhonde/viz/GlobalStockMarketIntelligenceDashboard/GlobalStockMarketIntelligenceDashboard1?publish=yes)
 
 ## 📸 Screenshots
-![Dashboard](screenshots/dashboard.png)
+
+### Dashboard Overview
+![Dashboard](screenshots/GSM1.png)
+
+### Top 10 Companies by Market Cap
+![Market Cap](screenshots/GSM2.png)
+
+### Stock Price Trend
+![Stock Trend](screenshots/GSM3.png)
+
+### Revenue Growth by Sector
+![Revenue](screenshots/GSM4.png)
+
+### Risk vs Reward
+![Risk Reward](screenshots/GSM5.png)
